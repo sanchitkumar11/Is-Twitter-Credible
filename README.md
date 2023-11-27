@@ -14,6 +14,10 @@
 * 🤖 **Twitter User Demographics: Identify the profiles of Twitter users (government institutions, universities, non-profits, or individual users) discussing K-12 or higher education.**
 * 🧠 **Content Originality: Evaluate the proportion of original content versus retweets or copies of original tweets.**
 
+<h1 style="">📈 Data</h1>
+
+**A collection of approximately 100 million tweets (approx. 500GB), stored in Google Cloud Storage**
+
 <h1 style="">🧠 Methodology</h1>
 
 ![image](https://github.com/sanchitkumar11/Is-Twitter-Credible/assets/105491876/7fa6bac6-59b4-442e-a2eb-a7738a8e0fdb)
