@@ -18,6 +18,27 @@
 
 **A collection of approximately 100 million tweets (approx. 500GB), stored in Google Cloud Storage**
 
+<h1 style="">📖 Documentation</h1>
+For a complete guide to the code, please follow the steps outlined below to navigate through the GitHub repo. The code is divided into HTML and IPYNB format. Open the notebooks in order of the numbers - go through data processing first, followed by EDA:
+
+* [Presentation](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/Presentation/BigDataFinalProject_SanchitKumar.pdf)
+  
+* [Data Preprocessing  - Data Understanding 1](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/IPYNB/Data%20Preprocessing%20-%20Data%20Understanding%201.ipynb)
+  
+* [Data Preprocessing - Filtering nested data for key columns 2](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/IPYNB/Data%20Preprocessing%20-%20Filtering%20nested%20data%20for%20key%20columns%202.ipynb)
+  
+* [Data Preprocessing - Filtering for education keywords 3](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/IPYNB/Data%20Preprocessing%20-%20Filtering%20for%20education%20keywords%203.ipynb)
+
+* [EDA - Most prolific twitterers 4](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/IPYNB/EDA%20-%20Most%20prolific%20twitterers%204.ipynb)
+
+* [EDA - Location Analysis 5](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/IPYNB/EDA%20-%20Location%20Analysis%205.ipynb)
+
+* [EDA - Timelines of tweets 6](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/IPYNB/EDA%20-%20Timelines%20of%20tweets%206.ipynb)
+
+* [EDA - Uniqueness of Tweets 7](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/IPYNB/EDA%20-%20Uniqueness%20of%20Tweets%207.ipynb)
+
+* [EDA - Uniqueness of Tweets 8](https://github.com/sanchitkumar11/Is-Twitter-Credible/blob/main/IPYNB/EDA%20-%20Uniqueness%20of%20Tweets%208.ipynb)
+
 <h1 style="">🧠 Methodology</h1>
 
 ![image](https://github.com/sanchitkumar11/Is-Twitter-Credible/assets/105491876/7fa6bac6-59b4-442e-a2eb-a7738a8e0fdb)
